@@ -6,3 +6,4 @@
 !/src/**
 # Abre uma exceção para o próprio .gitignore
 !.gitignore
+!README.md

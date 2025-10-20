@@ -1,0 +1,8 @@
+# Ignora tudo
+*
+
+# Abre uma exceção para a pasta src e seu conteúdo
+!/src/
+!/src/**
+# Abre uma exceção para o próprio .gitignore
+!.gitignore
